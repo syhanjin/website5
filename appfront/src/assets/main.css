@@ -1,0 +1,26 @@
+/*=============================================================================
+ = Copyright (C) 2023 Sakuyark, Inc. All Rights Reserved                      =
+ =                                                                            =
+ =   @Time : 2023-6-18 21:37                                                  =
+ =   @Author : hanjin                                                         =
+ =   @Email : 2819469337@qq.com                                               =
+ =   @File : main.css                                                         =
+ =   @Program: website5                                                       =
+ =============================================================================*/
+
+@import './base.css';
+/*@import './icons/iconfont.css';*/
+@import "https://at.alicdn.com/t/c/font_4127815_djy0gcy3cyk.css?spm=a313x.7781069.1998910419.54&file=font_4127815_djy0gcy3cyk.css";
+
+.container {
+    min-height: 600px;
+    width: 100%;
+    position: relative;
+    margin: 50px 0;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color: #524848;
+}
